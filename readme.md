@@ -92,17 +92,17 @@ http://localhost:5601/
 
 check here that our ingest exists
 
-![image.png](attachment:7313642d-14b9-4e2a-acd6-072d998b2055.png)
+![ES1](./images/1.png)
 
 Create here the index pattern to access data.
 You  will need to enter the correct index name which is electronics_products.
 Also you will be asked for a time field, the winner is "dateAdded" field.
 
-![image.png](attachment:13d65559-195d-48ab-a28c-e7d3ebca18cb.png)
+![ES2](./images/2.png)
 
 you now can go in Analytics>Discover to check the data is here, update the time range is needed, modify the absolute StartDate eg. 2014 (upper right corner)
 
-![image.png](attachment:ce60c9cd-2316-4fc1-8de8-87bc557eb128.png)
+![ES3](./images/3.png)
 
 ## **let's start our API**
 ---
