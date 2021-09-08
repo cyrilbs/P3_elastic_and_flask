@@ -130,7 +130,4 @@ http://0.0.0.0:5000/apidocs/
 
 below the API endpoints
 
-
-```python
-
-```
+![endpoints](./images/4.png)
