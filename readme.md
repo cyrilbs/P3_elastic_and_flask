@@ -128,6 +128,6 @@ the api documentation stands here
 http://0.0.0.0:5000/apidocs/
 ```
 
-below the API endpoints
+below the API endpoints (3 ones). The point is here to prove that we can set up this architecture from end to end. Much more endpoint could be defined.
 
 ![endpoints](./images/4.png)
